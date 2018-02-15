@@ -4,22 +4,20 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+February 14, 2018
 
 ### Student Name:  
-(First and Last Name)
+Baylee Whitley
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
-
+For this project, Cloud Nine and GitHub were used to help create a file where an expense report can be used to convert expenses spent to a percentage.
 ### View Project:
-(Replace this statement with your GitHub Page URL that was created when you 
- published the project.)
+https://bmw16f.github.io/lesson4_javascript1/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. Relearned how to create a remote repository.
+2. How to declare, initialize and modify variables
+3. How to convert user inputs.
 
 
 
